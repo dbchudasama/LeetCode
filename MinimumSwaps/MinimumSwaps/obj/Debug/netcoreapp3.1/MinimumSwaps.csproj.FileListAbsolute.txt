@@ -1,0 +1,13 @@
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\bin\Debug\netcoreapp3.1\MinimumSwaps.exe
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\bin\Debug\netcoreapp3.1\MinimumSwaps.deps.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\bin\Debug\netcoreapp3.1\MinimumSwaps.runtimeconfig.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\bin\Debug\netcoreapp3.1\MinimumSwaps.runtimeconfig.dev.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\bin\Debug\netcoreapp3.1\MinimumSwaps.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\bin\Debug\netcoreapp3.1\MinimumSwaps.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp3.1\MinimumSwaps.csprojAssemblyReference.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp3.1\MinimumSwaps.AssemblyInfoInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp3.1\MinimumSwaps.AssemblyInfo.cs
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp3.1\MinimumSwaps.csproj.CoreCompileInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp3.1\MinimumSwaps.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp3.1\MinimumSwaps.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSwaps\MinimumSwaps\obj\Debug\netcoreapp3.1\MinimumSwaps.genruntimeconfig.cache
