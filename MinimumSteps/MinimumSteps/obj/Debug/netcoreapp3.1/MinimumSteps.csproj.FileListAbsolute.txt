@@ -1,0 +1,13 @@
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\bin\Debug\netcoreapp3.1\MinimumSteps.exe
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\bin\Debug\netcoreapp3.1\MinimumSteps.deps.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\bin\Debug\netcoreapp3.1\MinimumSteps.runtimeconfig.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\bin\Debug\netcoreapp3.1\MinimumSteps.runtimeconfig.dev.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\bin\Debug\netcoreapp3.1\MinimumSteps.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\bin\Debug\netcoreapp3.1\MinimumSteps.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\obj\Debug\netcoreapp3.1\MinimumSteps.AssemblyInfoInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\obj\Debug\netcoreapp3.1\MinimumSteps.AssemblyInfo.cs
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\obj\Debug\netcoreapp3.1\MinimumSteps.csproj.CoreCompileInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\obj\Debug\netcoreapp3.1\MinimumSteps.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\obj\Debug\netcoreapp3.1\MinimumSteps.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\obj\Debug\netcoreapp3.1\MinimumSteps.genruntimeconfig.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumSteps\MinimumSteps\obj\Debug\netcoreapp3.1\MinimumSteps.csprojAssemblyReference.cache
