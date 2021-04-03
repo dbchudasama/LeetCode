@@ -1,0 +1,13 @@
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\bin\Debug\netcoreapp3.1\MinimumDeletions.exe
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\bin\Debug\netcoreapp3.1\MinimumDeletions.deps.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\bin\Debug\netcoreapp3.1\MinimumDeletions.runtimeconfig.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\bin\Debug\netcoreapp3.1\MinimumDeletions.runtimeconfig.dev.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\bin\Debug\netcoreapp3.1\MinimumDeletions.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\bin\Debug\netcoreapp3.1\MinimumDeletions.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\obj\Debug\netcoreapp3.1\MinimumDeletions.csprojAssemblyReference.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\obj\Debug\netcoreapp3.1\MinimumDeletions.AssemblyInfoInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\obj\Debug\netcoreapp3.1\MinimumDeletions.AssemblyInfo.cs
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\obj\Debug\netcoreapp3.1\MinimumDeletions.csproj.CoreCompileInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\obj\Debug\netcoreapp3.1\MinimumDeletions.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\obj\Debug\netcoreapp3.1\MinimumDeletions.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\MinimumDeletions\MinimumDeletions\obj\Debug\netcoreapp3.1\MinimumDeletions.genruntimeconfig.cache
