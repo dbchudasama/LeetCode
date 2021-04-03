@@ -32,7 +32,7 @@ namespace MinimumDeletions
             //Sorting characters by their frequencies
             Array.Sort(freq);
 
-            int result = 0;
+            int minDeletes = 0;
 
             // Max Remaining is the value of the last element (as this will be the highest frequency)
             int max_remaining = freq[freq.Length - 1];
@@ -43,8 +43,8 @@ namespace MinimumDeletions
                 //If the maximimum frequency count is 0
                 if (max_remaining == 0)
                 {
-                    //result = result + frequency[i] => This becomes the minimum number of deletes
-                    result += freq[i];
+                    //minDeletes = minDeletes + frequency[i] => This becomes the minimum number of deletes
+                    minDeletes += freq[i];
                 }
                 else
                 {
@@ -55,15 +55,15 @@ namespace MinimumDeletions
                     }
                     else
                     {
-                        //result = result + freq[i] - max_remaining + 1 => E.g. 0 + 3 - 3 + 1 = 1.
-                        result += freq[i] - max_remaining + 1;
+                        //minDeletes = minDeletes + freq[i] - max_remaining + 1 => E.g. 0 + 3 - 3 + 1 = 1.
+                        minDeletes += freq[i] - max_remaining + 1;
                         //As we can only delete characters, if we hve multiple characters having the same frequency, we must decrease all frequencies, excpet one
                         max_remaining--;
                     }
                 }
             }
             //Return minimum number of deletes
-            return result;
+            return minDeletes;
         }
 
 
