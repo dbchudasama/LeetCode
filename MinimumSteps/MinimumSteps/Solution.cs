@@ -6,6 +6,9 @@ namespace MinimumSteps
     class Solution
     {
 
+        //SOLUTION FOR LEETCODE QUESTION:
+        //MINIMUM STEPS TO MAKE PILES EQUAL HEIGHTS
+
 
         /// <summary>
         /// Method to calculate minimum number of steps to make pile heights equal
@@ -29,7 +32,7 @@ namespace MinimumSteps
                 //If the i'th item is not equal to it's preceding item
                 if (pilesHeight[i] != pilesHeight[i - 1])
                 {
-                    //steps = steps + i
+                    //steps = steps + i - Recursively keep adding to the number of steps until height list is exhausted. 
                     steps += i;
                 }
                 //Increment i
