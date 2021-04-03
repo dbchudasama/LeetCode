@@ -71,7 +71,10 @@ namespace MinimumDeletions
         static void Main(string[] args)
         {
             var s = new Solution();
-            s.MinDeletions("aabccccddeeee");
+            var w = "aabccccddeeee";
+            var numberofDeletions = s.MinDeletions(w);
+
+            Console.WriteLine($"The minimum number of deletes to make character frequencies unique for the string {w} is {numberofDeletions}");
         }
     }
 }
