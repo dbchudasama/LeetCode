@@ -1,0 +1,13 @@
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\bin\Debug\netcoreapp3.1\GoodNodesBinaryTree.exe
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\bin\Debug\netcoreapp3.1\GoodNodesBinaryTree.deps.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\bin\Debug\netcoreapp3.1\GoodNodesBinaryTree.runtimeconfig.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\bin\Debug\netcoreapp3.1\GoodNodesBinaryTree.runtimeconfig.dev.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\bin\Debug\netcoreapp3.1\GoodNodesBinaryTree.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\bin\Debug\netcoreapp3.1\GoodNodesBinaryTree.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\obj\Debug\netcoreapp3.1\GoodNodesBinaryTree.csprojAssemblyReference.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\obj\Debug\netcoreapp3.1\GoodNodesBinaryTree.AssemblyInfoInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\obj\Debug\netcoreapp3.1\GoodNodesBinaryTree.AssemblyInfo.cs
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\obj\Debug\netcoreapp3.1\GoodNodesBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\obj\Debug\netcoreapp3.1\GoodNodesBinaryTree.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\obj\Debug\netcoreapp3.1\GoodNodesBinaryTree.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\GoodNodesBinaryTree\GoodNodesBinaryTree\obj\Debug\netcoreapp3.1\GoodNodesBinaryTree.genruntimeconfig.cache
