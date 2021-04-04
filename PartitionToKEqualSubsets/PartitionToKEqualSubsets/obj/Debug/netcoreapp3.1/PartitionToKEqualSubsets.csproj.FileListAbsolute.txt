@@ -1,0 +1,13 @@
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\bin\Debug\netcoreapp3.1\PartitionToKEqualSubsets.exe
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\bin\Debug\netcoreapp3.1\PartitionToKEqualSubsets.deps.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\bin\Debug\netcoreapp3.1\PartitionToKEqualSubsets.runtimeconfig.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\bin\Debug\netcoreapp3.1\PartitionToKEqualSubsets.runtimeconfig.dev.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\bin\Debug\netcoreapp3.1\PartitionToKEqualSubsets.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\bin\Debug\netcoreapp3.1\PartitionToKEqualSubsets.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\obj\Debug\netcoreapp3.1\PartitionToKEqualSubsets.csprojAssemblyReference.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\obj\Debug\netcoreapp3.1\PartitionToKEqualSubsets.AssemblyInfoInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\obj\Debug\netcoreapp3.1\PartitionToKEqualSubsets.AssemblyInfo.cs
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\obj\Debug\netcoreapp3.1\PartitionToKEqualSubsets.csproj.CoreCompileInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\obj\Debug\netcoreapp3.1\PartitionToKEqualSubsets.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\obj\Debug\netcoreapp3.1\PartitionToKEqualSubsets.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\PartitionToKEqualSubsets\PartitionToKEqualSubsets\obj\Debug\netcoreapp3.1\PartitionToKEqualSubsets.genruntimeconfig.cache
