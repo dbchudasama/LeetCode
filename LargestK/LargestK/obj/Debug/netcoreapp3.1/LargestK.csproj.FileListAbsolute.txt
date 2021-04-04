@@ -1,0 +1,13 @@
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\bin\Debug\netcoreapp3.1\LargestK.exe
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\bin\Debug\netcoreapp3.1\LargestK.deps.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\bin\Debug\netcoreapp3.1\LargestK.runtimeconfig.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\bin\Debug\netcoreapp3.1\LargestK.runtimeconfig.dev.json
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\bin\Debug\netcoreapp3.1\LargestK.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\bin\Debug\netcoreapp3.1\LargestK.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\obj\Debug\netcoreapp3.1\LargestK.csprojAssemblyReference.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\obj\Debug\netcoreapp3.1\LargestK.AssemblyInfoInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\obj\Debug\netcoreapp3.1\LargestK.AssemblyInfo.cs
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\obj\Debug\netcoreapp3.1\LargestK.csproj.CoreCompileInputs.cache
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\obj\Debug\netcoreapp3.1\LargestK.dll
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\obj\Debug\netcoreapp3.1\LargestK.pdb
+C:\Users\dchudasama\Documents\Visual Studio 2019\LeetCode\LargestK\LargestK\obj\Debug\netcoreapp3.1\LargestK.genruntimeconfig.cache
