@@ -6,6 +6,12 @@ namespace PartitionToKEqualSubsets
 {
     class Solution
     {
+
+        //SOLUTION FOR LEETCODE QUESTION:
+        //698 - PARTITION TO K EQUAL SUM SUBSETS
+        //*****DIFFICULTY - MEDIUM*****
+
+
         int valueToMake { get; set; }
 
 
