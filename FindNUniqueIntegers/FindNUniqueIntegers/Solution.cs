@@ -6,6 +6,10 @@ namespace FindNUniqueIntegers
 {
     class Solution
     {
+        //SOLUTION FOR LEETCODE QUESTION:
+        //1304 - FIND N UNIQUE INTEGERS SUM UP TO ZERO
+        //*****DIFFICULTY - EASY*****
+
 
         /// <summary>
         /// Method that finds N unique Integers that Sum up to 0 (in an array)
