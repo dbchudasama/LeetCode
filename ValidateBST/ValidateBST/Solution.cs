@@ -69,6 +69,8 @@ namespace ValidateBST
             var t = new TreeNode();
             s.IsValidBST(t);
 
+
+            //TESTED ON LEETCODE - WORKS!
         }
     }
 }
