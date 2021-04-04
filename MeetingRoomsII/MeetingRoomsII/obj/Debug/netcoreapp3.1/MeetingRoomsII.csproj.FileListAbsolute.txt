@@ -1,0 +1,13 @@
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\bin\Debug\netcoreapp3.1\MeetingRoomsII.exe
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\bin\Debug\netcoreapp3.1\MeetingRoomsII.deps.json
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\bin\Debug\netcoreapp3.1\MeetingRoomsII.runtimeconfig.json
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\bin\Debug\netcoreapp3.1\MeetingRoomsII.runtimeconfig.dev.json
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\bin\Debug\netcoreapp3.1\MeetingRoomsII.dll
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\bin\Debug\netcoreapp3.1\MeetingRoomsII.pdb
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\obj\Debug\netcoreapp3.1\MeetingRoomsII.csprojAssemblyReference.cache
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\obj\Debug\netcoreapp3.1\MeetingRoomsII.AssemblyInfoInputs.cache
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\obj\Debug\netcoreapp3.1\MeetingRoomsII.AssemblyInfo.cs
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\obj\Debug\netcoreapp3.1\MeetingRoomsII.csproj.CoreCompileInputs.cache
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\obj\Debug\netcoreapp3.1\MeetingRoomsII.dll
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\obj\Debug\netcoreapp3.1\MeetingRoomsII.pdb
+C:\Users\dchudasama\source\repos\MeetingRoomsII\MeetingRoomsII\obj\Debug\netcoreapp3.1\MeetingRoomsII.genruntimeconfig.cache
