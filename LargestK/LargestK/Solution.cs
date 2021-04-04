@@ -24,8 +24,8 @@ namespace LargestK
             int i = 0;
             int j = 1;
 
-            //If the array only has one item
-            if (numberArray.Length == 1)
+            //If the array is empty
+            if (numberArray.Length == i)
             {
                 //return 0
                 return 0;
@@ -52,7 +52,7 @@ namespace LargestK
         static void Main(string[] args)
         {
             var s = new Solution();
-            var array = new int[] { 3, 2, -10, 5, -3, 10 };
+            var array = new int[] { };
             var number = s.LargestK(array);
 
             if(number != 0)
