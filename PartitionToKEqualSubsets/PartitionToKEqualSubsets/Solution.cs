@@ -46,9 +46,9 @@ namespace PartitionToKEqualSubsets
         /// <param name="sum">The sum of array values - Start of with 0 as first case scenario</param>
         /// <param name="target">Value that needs to be made by each subset after adding</param>
         /// <param name="k">The number of total subsets that need to be made</param>
-        /// <param name="visitedIdx">Hash reference/comparison value</param>
+        /// <param name="cache">Cache for reference/comparison value</param> //CACHE WILL OPTIMISE PERFORMANCE - TIME COMPLEXITY AND SPACE COMPLEXITY O(n)
         /// <returns>True of False</returns>
-        private bool Helper(int[] nums, int startIdx, int sum, int target, int k, HashSet<int> visitedIdx)
+        private bool Helper(int[] nums, int startIdx, int sum, int target, int k, HashSet<int> cache)
         {
             //If the total number of subsets to me made is just 1 then return true
             if (k == 1) return true;
@@ -60,26 +60,26 @@ namespace PartitionToKEqualSubsets
             if (sum == target)
             {
                 //Recursively call the function, but this time decreasing the subset by 1 as we already have a single item subset [target]
-                return Helper(nums, 0, 0, target, k - 1, visitedIdx);
+                return Helper(nums, 0, 0, target, k - 1, cache);
             }
 
             //Iterating from 0 to length of array
             for (var i = startIdx; i < nums.Length; i++)
             {
                 //If the reference index is already in the HashSet carry on looping
-                if (visitedIdx.Contains(i)) continue;
+                if (cache.Contains(i)) continue;
 
                 //Else add the index to the HashSet as unique
-                visitedIdx.Add(i);
+                cache.Add(i);
 
                 //Using given example (Helper({5, 4, 3, 3, 2, 2, 1}, 1, 5, 5, 4, 0) - if the 3rd and 4th variables are the same
                 //(largest element value and target value are both the same) return true
-                if (Helper(nums, i + 1, sum + nums[i], target, k, visitedIdx))
+                if (Helper(nums, i + 1, sum + nums[i], target, k, cache))
                 {
                     return true;
                 }
                 //Otherwise remove the reference from the Hash Set
-                visitedIdx.Remove(i);
+                cache.Remove(i);
 
                 //for i = 0 -> (1 < 7 && 5 == 4)
                 while (i + 1 < nums.Length && nums[i] == nums[i + 1])
